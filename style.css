@@ -1,0 +1,55 @@
+.header{
+    
+    
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    margin: 0 30px 0 30px;
+}
+    .container{
+        background-color: black; 
+        height:70px;
+           
+   
+    
+}
+.logo{
+    display: flex;
+    height: 68px;5
+}
+.navbar{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+    text-decoration: none;
+    margin: 0,10px,0,10px;
+    
+        
+    gap: 100px;
+    
+}
+ul,a{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    text-decoration: none;
+    list-style: none;
+    align-items: center;
+    gap: 32px;
+    color: aliceblue;
+  
+    
+}
+.button{
+    background-color: brown;
+    border-radius: 19%;
+    border: none;
+    height: 50px;
+    color: antiquewhite;
+    width: 59px;
+}
