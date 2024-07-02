@@ -53,3 +53,12 @@ ul,a{
     color: antiquewhite;
     width: 59px;
 }
+a:hover{
+    color: aqua;
+}
+:hover{
+    color:chartreuse;
+}
+body{
+    background-color: antiquewhite;
+}
